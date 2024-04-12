@@ -1,9 +1,9 @@
 {
-    "token": "MTIyODAzNDg0NTM0MzYxNzA5Ng.G-mTCx.QqEnNVU7Q94iXDY6TZLFGvyrjudb5611JrBgXw",
-    "clientID": "1228034845343617096",
-    "clientSecret": "_Rg_-0wve9O6akMDXtaAqpMgP2Zt2QDV",
-    "callbackUrl": "http://localhost:3000/callback",
-    "ownerRoleId": "1228035372471029760",
-    "guildId": "1222238390431514735",
-    "logChannelId": "1222239223822684192"
+    "token": "",
+    "clientID": "",
+    "clientSecret": "",
+    "callbackUrl": "",
+    "ownerRoleId": "",
+    "guildId": "",
+    "logChannelId": ""
 }
